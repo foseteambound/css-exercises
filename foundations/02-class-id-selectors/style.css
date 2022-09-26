@@ -1,0 +1,18 @@
+.parag {
+    color: white;
+    background-color: hsl(0, 100%, 50%);
+    font-family: Verdana, 'Dejavu sans', sans-serif; 
+  }
+  .parag2{
+    font-size: 36px;
+  }
+ #divid{
+    color:hsl(236, 89%, 49%);
+    font-size: 36px;
+
+ }
+ #divid2{
+    background-color:rgb(56, 206, 73);
+    font-size: 24px;
+    font-weight: bold;
+ }
